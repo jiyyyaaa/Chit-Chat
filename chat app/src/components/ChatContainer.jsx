@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useContext, useState } from 'react'; // 1. Im
 import toast from 'react-hot-toast'; // 2. Imported toast
 import assets from '../assets/assets';
 import { formatMessageTime } from '../lib/utils';
-import { ChatContext } from '../../context/Chatcontext';
+import { ChatContext } from '../../context/ChatContext';
 import { AuthContext } from '../../context/AuthContext';
 // 3. Removed 'mongoose' import
 
