@@ -22,3 +22,10 @@ The app is designed with scalability and usability in mind, using modern web tec
 **Backend:** Node.js, Express.js, Socket.io  
 **Database:** MongoDB  
 **Authentication:** JWT  
+
+##  Screenshots
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/fe559512-232c-49d2-9638-7b1e60f00a8b" />
+<img width="1919" height="776" alt="image" src="https://github.com/user-attachments/assets/11e0f3bc-d0bb-4680-98df-e35269cda5fa" />
+<img width="1753" height="662" alt="image" src="https://github.com/user-attachments/assets/468db900-005d-4cb2-8a50-af7e4efab038" />
+
+
