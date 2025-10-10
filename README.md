@@ -1,4 +1,4 @@
-#  Chit Chat
+#  QuickChat
 
 A full-stack **real-time chat application** built for seamless communication with a clean and modern UI.  
 
